@@ -17,7 +17,7 @@ This system retrieves semantically relevant images even when exact keywords are 
 
 ---
 
-# Key Highlights (Resume-Focused)
+# Key Highlights
 
 * Implemented multimodal semantic search using CLIP (ViT-B/32)
 * Built high-speed vector search using FAISS indexing
