@@ -1,6 +1,4 @@
-Here is a **resume-level README.md** optimized for placements, recruiters, and technical evaluation. It emphasizes impact, architecture, scalability, and engineering decisions.
 
----
 
 # CLIP-FAISS Multimodal Retrieval Engine
 
@@ -189,4 +187,3 @@ This project demonstrates practical implementation of:
 
 ---
 
-f you want, I can also create a **FAANG-level README with system design depth and performance metrics**, which significantly increases recruiter impact.
